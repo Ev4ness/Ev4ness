@@ -7,6 +7,26 @@
 
 - 🔭 I’m currently working on **Bot Telegram**
 
+### Stats:
+<p align="center"><a href="https://github.com/Ev4ness"><img src="https://github-readme-stats.vercel.app/api?username=Ev4ness&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Ev4ness"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ev4ness&theme=radical&layout=compact"></a></p> 
+
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Ev4ness)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/Ev4ness?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
